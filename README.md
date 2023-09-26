@@ -8,4 +8,4 @@ For this project, I have used [weatherAUS from kaggle.](https://www.kaggle.com/d
 
 
 ### Machine Learning Model
-For this project, I have used Logistic Regression and Decision Tree model. The target variable to be predicted is “RainTomorrow” meaning whether it will rain the next day or not.  Yes indicates it will rain tomorrow whereas, No means no rain. I have used supervised machine learning model logistic regretion for this project.
+For this project, I have used Logistic Regression and Decision Tree model. The target variable to be predicted is “RainTomorrow” meaning whether it will rain the next day or not.  Yes indicates it will rain tomorrow whereas, No means no rain.
