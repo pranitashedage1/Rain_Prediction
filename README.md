@@ -1,6 +1,6 @@
 ## Rain Prediction
 
-In this project, I will try to predict whether it will rain tomorrow or not based the past weather data using binary classification models. I am planning to use models like logistic regression and Decision Tree to check and compare their performances. 
+In this project, I will try to predict whether it will rain tomorrow or not based the past weather data using binary classification models. I have used models like logistic regression and Decision Tree to check and compare their performances. 
 
 
 ### Dataset
